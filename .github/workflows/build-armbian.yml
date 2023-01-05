@@ -89,7 +89,7 @@ on:
         default: ""
 
 env:
-  TZ: Asia/ChongQing
+  TZ: Asia/Chongqing
 
 jobs:
   build:
